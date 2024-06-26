@@ -1,9 +1,38 @@
-Game: 20 Mintues Till Dawn\n
-Build ID: 12679152\n
-Steam Store: https://store.steampowered.com/app/1966900/20_Minutes_Till_Dawn/\n
 
-Usage: Inject using any mono injector with settings:\n
-  \tNamespace: MinutesTillDawn
-  \tClass Name: Loader
-  \tMethod Name: Init
-  \tEjection - Method Name: Unload
+# 20 Minites Till Dawn Cheat
+
+A simple cheat for 20 Minutes Till Dawn.
+
+
+
+
+## About the game
+Name: [20 Mintues Till Dawn](https://store.steampowered.com/app/1966900/20_Minutes_Till_Dawn/)\
+Build ID: 12679152
+
+
+## Features
+
+- Invincible
+- High pickup range
+- Kill Aura
+- Instant reload
+- Freeze Max Ammo to 1
+    - To activate reload skill more frequently
+- High fire rate
+- Infinite ammo
+- Enable reroll passive on all characters.
+
+
+## usage
+
+Inject the dll using any mono injector with settings:\
+Recommen: [SharpMonoInjector](https://www.unknowncheats.me/forum/unity/408878-sharpmonoinjector-fixed-updated.html)
+
+```bash
+  Namespace: MinutesTillDawn
+  Class Name: Loader
+  Inject Method Name: Init
+  Eject Method Name: Unload
+```
+
