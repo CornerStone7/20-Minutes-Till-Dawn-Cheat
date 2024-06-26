@@ -1,5 +1,5 @@
 
-# 20 Minites Till Dawn Cheat
+# 20 Minutes Till Dawn Cheat
 
 A simple cheat for 20 Minutes Till Dawn.
 
