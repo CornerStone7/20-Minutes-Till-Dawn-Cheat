@@ -27,7 +27,7 @@ Build ID: 12679152
 ## Usage
 
 Inject the dll using any mono injector with settings:\
-Recommen: [SharpMonoInjector](https://www.unknowncheats.me/forum/unity/408878-sharpmonoinjector-fixed-updated.html)
+Recommend: [SharpMonoInjector](https://www.unknowncheats.me/forum/unity/408878-sharpmonoinjector-fixed-updated.html)
 
 ```bash
   Namespace: MinutesTillDawn
