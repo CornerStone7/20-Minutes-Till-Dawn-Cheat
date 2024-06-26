@@ -24,7 +24,7 @@ Build ID: 12679152
 - Enable reroll passive on all characters.
 
 
-## usage
+## Usage
 
 Inject the dll using any mono injector with settings:\
 Recommen: [SharpMonoInjector](https://www.unknowncheats.me/forum/unity/408878-sharpmonoinjector-fixed-updated.html)
